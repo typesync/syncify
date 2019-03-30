@@ -1,2 +1,2 @@
 # syncify
-Seamlessly stream self hosted movies across clients
+Seamlessly stream self hosted movies across clients 📽🍿
