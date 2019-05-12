@@ -1,8 +1,10 @@
 {
   "extends": "../tsconfig.base.json",
   "compilerOptions": {
-    "outDir": "../build/server"
+    "rootDir": "src",
+    "outDir": "../build"
   },
+  "exclude": ["**/*.spec.ts", "node_modules", "build"],
   "references": [
     {
       "path": "../shared"

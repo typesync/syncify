@@ -1,5 +1,5 @@
 import { run } from './app';
-import { LogLevels } from '../../build/shared';
+import { LogLevels } from 'shared';
 
 describe('run', () => {
   it('logs App is running', () => {

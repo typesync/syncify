@@ -1,4 +1,4 @@
-import { LogMessage } from '../../shared';
+import { LogMessage } from 'shared';
 
 export function log(message: LogMessage) {
   // tslint:disable-next-line
