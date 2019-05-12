@@ -1,0 +1,27 @@
+{
+  "name": "syncify",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "ts-node-dev --respawn --transpileOnly server/index.ts",
+    "test": "jest --watch",
+    "build": "tsc -b tsproject.json",
+    "serve": "node build/server/index.js",
+    "lint": "tslint --project tsproject.json",
+    "prettier": "prettier --write ./**/*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-typescript": "^7.3.3",
+    "@types/jest": "^24.0.12",
+    "@types/node": "^11.13.9",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
+    "prettier": "^1.17.0",
+    "ts-node-dev": "^1.0.0-pre.35",
+    "tslint": "^5.16.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.4.5"
+  }
+}
