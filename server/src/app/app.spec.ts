@@ -1,11 +1,11 @@
-import { run } from './app';
+import { bootstrap } from './app';
 import { LogLevels } from 'shared';
 
-describe('run', () => {
+describe('bootstrap', () => {
   it('logs App is running', () => {
     // tslint:disable: no-console
     console.log = jest.fn();
-    run();
+    bootstrap();
     expect(console.log).toHaveBeenCalledWith({
       level: LogLevels.Debug,
       message: 'App is running',

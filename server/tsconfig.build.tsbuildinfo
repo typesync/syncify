@@ -125,94 +125,6 @@
         "version": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8",
         "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
       },
-      "/users/eloi/documents/syncify/shared/build/log-level.d.ts": {
-        "version": "9f33d25c790cc56ce3c03d176e94b345a8508e9c0d08351323628c75e0e3a61c",
-        "signature": "9f33d25c790cc56ce3c03d176e94b345a8508e9c0d08351323628c75e0e3a61c"
-      },
-      "/users/eloi/documents/syncify/shared/build/log-message.d.ts": {
-        "version": "348cb55ca9dcacee714b692d69942713f556882b909d1fdb44498367e36292c4",
-        "signature": "348cb55ca9dcacee714b692d69942713f556882b909d1fdb44498367e36292c4"
-      },
-      "/users/eloi/documents/syncify/shared/build/index.d.ts": {
-        "version": "f24e1451b54eb0f7313e49ecc41d5d3fdb9b3aaabcb42e21e3f2c8e8c66c0936",
-        "signature": "f24e1451b54eb0f7313e49ecc41d5d3fdb9b3aaabcb42e21e3f2c8e8c66c0936"
-      },
-      "/users/eloi/documents/syncify/server/src/logger/logger.ts": {
-        "version": "58a3be964bb4e09b140a2f816453cc3689b894a5e47cef11c09276cc174282d1",
-        "signature": "9649d1049490667d60b62ec5aa0d8cf4cd7353ecd29540ae9dde01678d1e3726"
-      },
-      "/users/eloi/documents/syncify/server/src/logger/index.ts": {
-        "version": "04a2d18c11897d47e4db1ca2ca9f36b08855af9639f6c07b455e322586aa3874",
-        "signature": "0cc7bdb8e22bccf36ed1bb511f1a686b179ba96a23d4dc8e19b61a6c8821d40b"
-      },
-      "/users/eloi/documents/syncify/server/src/app/app.ts": {
-        "version": "c376edc80d1d68f545cb180d174c5ee7fc95bd593ecd0d6416542f58039bcc4e",
-        "signature": "df26a1e4c2ee3c3dc8c76cf37e626cd9216b906d513590cd0c5c80ac573bbe91"
-      },
-      "/users/eloi/documents/syncify/server/src/app/index.ts": {
-        "version": "486510385d42317448ab47b4bcb411cbf3812a989a3f4164eec4b35d9246ca22",
-        "signature": "67f550e64ed46698797ff2a28f4d8bff6de4d22a539e02695a1578837479c5a0"
-      },
-      "/users/eloi/documents/syncify/server/src/index.ts": {
-        "version": "e9046398d1301c5c35e08e9996f696d3c61096d78709aceb20f3e968e13c8e04",
-        "signature": "ed0c415f672448fd3d813cc929c78d1e24412d4a0e1e47e42e17cb67a67f08da"
-      },
-      "/users/eloi/documents/syncify/server/src/app/app.spec.ts": {
-        "version": "46dab3bef63b3c57f0ab2ef1d1e3da72a954f4e14443abdd838c797c48faa2a9",
-        "signature": "6594b253541618653a4b8dd2b09ac9b9fa9410505771e1a5c63d36e887a13f9d"
-      },
-      "/users/eloi/documents/syncify/node_modules/@types/jest-diff/index.d.ts": {
-        "version": "6ecb326999da47034eff85653423767152858fbb7acf0433f7603c9abf1e3f06",
-        "signature": "6ecb326999da47034eff85653423767152858fbb7acf0433f7603c9abf1e3f06"
-      },
-      "/users/eloi/documents/syncify/node_modules/jest-diff/build/types.d.ts": {
-        "version": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7",
-        "signature": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7"
-      },
-      "/users/eloi/documents/syncify/node_modules/jest-diff/build/index.d.ts": {
-        "version": "b2c5ded6320c45c5d3e1c481c5d2808adf24dd1a59ffc944b72a418e95da5b17",
-        "signature": "b2c5ded6320c45c5d3e1c481c5d2808adf24dd1a59ffc944b72a418e95da5b17"
-      },
-      "/users/eloi/documents/syncify/server/node_modules/@types/jest/index.d.ts": {
-        "version": "9ba92686c69056523f61df30af455805d73adadc45c06ed104e7300a35857421",
-        "signature": "9ba92686c69056523f61df30af455805d73adadc45c06ed104e7300a35857421"
-      },
-      "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts": {
-        "version": "9eac0dd4de5669db2b8321dffa400b997f7b21181118efc7a2c1743d93d4be57",
-        "signature": "9eac0dd4de5669db2b8321dffa400b997f7b21181118efc7a2c1743d93d4be57"
-      },
-      "/users/eloi/documents/syncify/node_modules/@types/babel__generator/index.d.ts": {
-        "version": "19fb2161edf60fbe73ee3650c1cee889df0525ed852eff2d5fa6e5480c132ae3",
-        "signature": "19fb2161edf60fbe73ee3650c1cee889df0525ed852eff2d5fa6e5480c132ae3"
-      },
-      "/users/eloi/documents/syncify/node_modules/@types/babel__traverse/index.d.ts": {
-        "version": "30b805fe6d4272d147fea35fd859bc5f3e13b7c9d762bd35948fe842919452a5",
-        "signature": "30b805fe6d4272d147fea35fd859bc5f3e13b7c9d762bd35948fe842919452a5"
-      },
-      "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts": {
-        "version": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f",
-        "signature": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f"
-      },
-      "/users/eloi/documents/syncify/node_modules/@types/babel__template/index.d.ts": {
-        "version": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
-        "signature": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8"
-      },
-      "/users/eloi/documents/syncify/node_modules/@types/babel__core/index.d.ts": {
-        "version": "8f279d393b3572c5c0a8428d46d00281c38a5ef52dc9dd513fc861c31a5d6420",
-        "signature": "8f279d393b3572c5c0a8428d46d00281c38a5ef52dc9dd513fc861c31a5d6420"
-      },
-      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts": {
-        "version": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd",
-        "signature": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd"
-      },
-      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-report/index.d.ts": {
-        "version": "70c61ff569aabdf2b36220da6c06caaa27e45cd7acac81a1966ab4ee2eadc4f2",
-        "signature": "70c61ff569aabdf2b36220da6c06caaa27e45cd7acac81a1966ab4ee2eadc4f2"
-      },
-      "/users/eloi/documents/syncify/node_modules/@types/istanbul-reports/index.d.ts": {
-        "version": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b",
-        "signature": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b"
-      },
       "/users/eloi/documents/syncify/node_modules/@types/node/globals.d.ts": {
         "version": "3af134c0480536f901a30692d216bd29712a3869fe38a7be066ea1eef34a8561",
         "signature": "3af134c0480536f901a30692d216bd29712a3869fe38a7be066ea1eef34a8561"
@@ -222,8 +134,8 @@
         "signature": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f"
       },
       "/users/eloi/documents/syncify/node_modules/@types/node/async_hooks.d.ts": {
-        "version": "138476cfdccbb9e2c7e06602bc216af843a56c4f3469a79106bc660ba94bd66a",
-        "signature": "138476cfdccbb9e2c7e06602bc216af843a56c4f3469a79106bc660ba94bd66a"
+        "version": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561",
+        "signature": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561"
       },
       "/users/eloi/documents/syncify/node_modules/@types/node/buffer.d.ts": {
         "version": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d",
@@ -246,8 +158,8 @@
         "signature": "b952021e804dcd9cb5e5552e1ec8bf9f479b61e20da5641e2a542fe77db9a598"
       },
       "/users/eloi/documents/syncify/node_modules/@types/node/crypto.d.ts": {
-        "version": "a15466cfe77b4f8bcd936634d3d2828ee340819c3f136d31f87d6084e86994d0",
-        "signature": "a15466cfe77b4f8bcd936634d3d2828ee340819c3f136d31f87d6084e86994d0"
+        "version": "325154b5b9b94af94b9c0cea4a051496693e6253be1abb2b6399b68331d70e46",
+        "signature": "325154b5b9b94af94b9c0cea4a051496693e6253be1abb2b6399b68331d70e46"
       },
       "/users/eloi/documents/syncify/node_modules/@types/node/dgram.d.ts": {
         "version": "b6c6861bccf209a98eeddb99bdb7bd987fb29fc52130d5d9fd2f79d3607a0a7a",
@@ -262,8 +174,8 @@
         "signature": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa"
       },
       "/users/eloi/documents/syncify/node_modules/@types/node/events.d.ts": {
-        "version": "cff7f1ff41519a28adfedb85b9d91325e13d7993bebcfd0dd9ce30c3ed1240bb",
-        "signature": "cff7f1ff41519a28adfedb85b9d91325e13d7993bebcfd0dd9ce30c3ed1240bb"
+        "version": "0be551fde848d5adde38731272ee980bda2bde0f8bf2a76ce99e01b86985546c",
+        "signature": "0be551fde848d5adde38731272ee980bda2bde0f8bf2a76ce99e01b86985546c"
       },
       "/users/eloi/documents/syncify/node_modules/@types/node/fs.d.ts": {
         "version": "443b649496d14353d14e79b502a210f33c2d868f4c07df84c0e08cb013c08211",
@@ -354,8 +266,8 @@
         "signature": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7"
       },
       "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts": {
-        "version": "20e55abae3dd750a85fda7c4d140670ada679c3d5b640de5e4f3eaafcee18a0d",
-        "signature": "20e55abae3dd750a85fda7c4d140670ada679c3d5b640de5e4f3eaafcee18a0d"
+        "version": "0f6382d5032e45eec50b8f6c1e18c77544bc4db2ef8f854d196b254ec16add12",
+        "signature": "0f6382d5032e45eec50b8f6c1e18c77544bc4db2ef8f854d196b254ec16add12"
       },
       "/users/eloi/documents/syncify/node_modules/@types/node/v8.d.ts": {
         "version": "6ad2dd29dbf3aea031062298e9978d4b2a1fadd0997eb9d8caaf95aaa89e7033",
@@ -382,12 +294,136 @@
         "signature": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c"
       },
       "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/globals.d.ts": {
-        "version": "ce6b191c382ee19f23678b8c364484627bcf424e8f408357a2f5530fb8d52a45",
-        "signature": "ce6b191c382ee19f23678b8c364484627bcf424e8f408357a2f5530fb8d52a45"
+        "version": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1",
+        "signature": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1"
       },
       "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/index.d.ts": {
         "version": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c",
         "signature": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/dotenv/index.d.ts": {
+        "version": "2cba9752a0198d6c9cc96bc63463020f6a00de7d8f63cfd6a5eb35975662b09a",
+        "signature": "2cba9752a0198d6c9cc96bc63463020f6a00de7d8f63cfd6a5eb35975662b09a"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/range-parser/index.d.ts": {
+        "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
+        "signature": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/express-serve-static-core/index.d.ts": {
+        "version": "d1e81dc16bb5a4c4ba7cfcf11df969a44a70d0a61c8a568ee5e88e1a042e1b9e",
+        "signature": "d1e81dc16bb5a4c4ba7cfcf11df969a44a70d0a61c8a568ee5e88e1a042e1b9e"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/mime/index.d.ts": {
+        "version": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
+        "signature": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/serve-static/index.d.ts": {
+        "version": "b27dd918d8c3f10270cadea529c69e3a9b37ce59db0852945a39068cc5c10fff",
+        "signature": "b27dd918d8c3f10270cadea529c69e3a9b37ce59db0852945a39068cc5c10fff"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/connect/index.d.ts": {
+        "version": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82",
+        "signature": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/body-parser/index.d.ts": {
+        "version": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2",
+        "signature": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/express/index.d.ts": {
+        "version": "434d7d3188d85bd46c64dcc8268422ffdfdd19fdbc98ec01446d650414fcaa0b",
+        "signature": "434d7d3188d85bd46c64dcc8268422ffdfdd19fdbc98ec01446d650414fcaa0b"
+      },
+      "/users/eloi/documents/syncify/shared/build/log-level.d.ts": {
+        "version": "9f33d25c790cc56ce3c03d176e94b345a8508e9c0d08351323628c75e0e3a61c",
+        "signature": "9f33d25c790cc56ce3c03d176e94b345a8508e9c0d08351323628c75e0e3a61c"
+      },
+      "/users/eloi/documents/syncify/shared/build/log-message.d.ts": {
+        "version": "348cb55ca9dcacee714b692d69942713f556882b909d1fdb44498367e36292c4",
+        "signature": "348cb55ca9dcacee714b692d69942713f556882b909d1fdb44498367e36292c4"
+      },
+      "/users/eloi/documents/syncify/shared/build/index.d.ts": {
+        "version": "f24e1451b54eb0f7313e49ecc41d5d3fdb9b3aaabcb42e21e3f2c8e8c66c0936",
+        "signature": "f24e1451b54eb0f7313e49ecc41d5d3fdb9b3aaabcb42e21e3f2c8e8c66c0936"
+      },
+      "/users/eloi/documents/syncify/server/src/logger/logger.ts": {
+        "version": "58a3be964bb4e09b140a2f816453cc3689b894a5e47cef11c09276cc174282d1",
+        "signature": "9649d1049490667d60b62ec5aa0d8cf4cd7353ecd29540ae9dde01678d1e3726"
+      },
+      "/users/eloi/documents/syncify/server/src/logger/index.ts": {
+        "version": "04a2d18c11897d47e4db1ca2ca9f36b08855af9639f6c07b455e322586aa3874",
+        "signature": "0cc7bdb8e22bccf36ed1bb511f1a686b179ba96a23d4dc8e19b61a6c8821d40b"
+      },
+      "/users/eloi/documents/syncify/server/src/app/app.ts": {
+        "version": "99cdde846e5f47ae4f11d6557fa03d37e8312bdb522cd237fb3491915561aedd",
+        "signature": "02cf401e87d1272893f5fb656fff72877638c83920aa5b09c756d7b50ffb5a10"
+      },
+      "/users/eloi/documents/syncify/server/src/app/index.ts": {
+        "version": "486510385d42317448ab47b4bcb411cbf3812a989a3f4164eec4b35d9246ca22",
+        "signature": "67f550e64ed46698797ff2a28f4d8bff6de4d22a539e02695a1578837479c5a0"
+      },
+      "/users/eloi/documents/syncify/server/src/index.ts": {
+        "version": "c037dc032b8217db401a79d572ab77ff7c43ac5dc0f5d4b34f829ffc12faf33b",
+        "signature": "ed0c415f672448fd3d813cc929c78d1e24412d4a0e1e47e42e17cb67a67f08da"
+      },
+      "/users/eloi/documents/syncify/server/src/app/app.spec.ts": {
+        "version": "a946beef2af689eb68b660040b3641acd031e675ec04fbb73e98024f4a9a49f1",
+        "signature": "6594b253541618653a4b8dd2b09ac9b9fa9410505771e1a5c63d36e887a13f9d"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/jest-diff/index.d.ts": {
+        "version": "6ecb326999da47034eff85653423767152858fbb7acf0433f7603c9abf1e3f06",
+        "signature": "6ecb326999da47034eff85653423767152858fbb7acf0433f7603c9abf1e3f06"
+      },
+      "/users/eloi/documents/syncify/node_modules/jest-diff/build/types.d.ts": {
+        "version": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7",
+        "signature": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7"
+      },
+      "/users/eloi/documents/syncify/node_modules/jest-diff/build/index.d.ts": {
+        "version": "b2c5ded6320c45c5d3e1c481c5d2808adf24dd1a59ffc944b72a418e95da5b17",
+        "signature": "b2c5ded6320c45c5d3e1c481c5d2808adf24dd1a59ffc944b72a418e95da5b17"
+      },
+      "/users/eloi/documents/syncify/server/node_modules/@types/jest/index.d.ts": {
+        "version": "9ba92686c69056523f61df30af455805d73adadc45c06ed104e7300a35857421",
+        "signature": "9ba92686c69056523f61df30af455805d73adadc45c06ed104e7300a35857421"
+      },
+      "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts": {
+        "version": "9eac0dd4de5669db2b8321dffa400b997f7b21181118efc7a2c1743d93d4be57",
+        "signature": "9eac0dd4de5669db2b8321dffa400b997f7b21181118efc7a2c1743d93d4be57"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/babel__generator/index.d.ts": {
+        "version": "19fb2161edf60fbe73ee3650c1cee889df0525ed852eff2d5fa6e5480c132ae3",
+        "signature": "19fb2161edf60fbe73ee3650c1cee889df0525ed852eff2d5fa6e5480c132ae3"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/babel__traverse/index.d.ts": {
+        "version": "30b805fe6d4272d147fea35fd859bc5f3e13b7c9d762bd35948fe842919452a5",
+        "signature": "30b805fe6d4272d147fea35fd859bc5f3e13b7c9d762bd35948fe842919452a5"
+      },
+      "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts": {
+        "version": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f",
+        "signature": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/babel__template/index.d.ts": {
+        "version": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "signature": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/babel__core/index.d.ts": {
+        "version": "8f279d393b3572c5c0a8428d46d00281c38a5ef52dc9dd513fc861c31a5d6420",
+        "signature": "8f279d393b3572c5c0a8428d46d00281c38a5ef52dc9dd513fc861c31a5d6420"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts": {
+        "version": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd",
+        "signature": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-report/index.d.ts": {
+        "version": "70c61ff569aabdf2b36220da6c06caaa27e45cd7acac81a1966ab4ee2eadc4f2",
+        "signature": "70c61ff569aabdf2b36220da6c06caaa27e45cd7acac81a1966ab4ee2eadc4f2"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/istanbul-reports/index.d.ts": {
+        "version": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b",
+        "signature": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b"
+      },
+      "/users/eloi/documents/syncify/node_modules/@types/normalize-package-data/index.d.ts": {
+        "version": "c9ad058b2cc9ce6dc2ed92960d6d009e8c04bef46d3f5312283debca6869f613",
+        "signature": "c9ad058b2cc9ce6dc2ed92960d6d009e8c04bef46d3f5312283debca6869f613"
       },
       "/users/eloi/documents/syncify/node_modules/@types/prop-types/index.d.ts": {
         "version": "5e632216dfe01f2ff76f1c312c28632fde75364c24d659b732f2ee59e9ccf1b2",
@@ -580,121 +616,6 @@
         "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
         "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/eloi/documents/syncify/shared/build/log-level.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/shared/build/log-message.d.ts": [
-        "/users/eloi/documents/syncify/shared/build/log-level.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/shared/build/index.d.ts": [
-        "/users/eloi/documents/syncify/shared/build/log-level.d.ts",
-        "/users/eloi/documents/syncify/shared/build/log-message.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/server/src/logger/logger.ts": [
-        "/users/eloi/documents/syncify/shared/build/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/server/src/logger/index.ts": [
-        "/users/eloi/documents/syncify/server/src/logger/logger.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/server/src/app/app.ts": [
-        "/users/eloi/documents/syncify/server/src/logger/index.ts",
-        "/users/eloi/documents/syncify/shared/build/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/server/src/app/index.ts": [
-        "/users/eloi/documents/syncify/server/src/app/app.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/server/src/index.ts": [
-        "/users/eloi/documents/syncify/server/src/app/index.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/server/src/app/app.spec.ts": [
-        "/users/eloi/documents/syncify/server/src/app/app.ts",
-        "/users/eloi/documents/syncify/shared/build/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/jest-diff/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/jest-diff/build/types.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/jest-diff/build/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/jest-diff/build/types.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/server/node_modules/@types/jest/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/jest-diff/build/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/jest-diff/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/babel__generator/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/babel__traverse/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/babel__template/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/babel__core/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/babel__generator/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/babel__traverse/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/babel__template/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-report/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/istanbul-reports/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-report/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/users/eloi/documents/syncify/node_modules/@types/node/globals.d.ts": [
         "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
         "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
@@ -960,6 +881,174 @@
         "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts",
         "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/globals.d.ts",
         "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/dotenv/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/range-parser/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/express-serve-static-core/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/http.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/events.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/range-parser/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/mime/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/serve-static/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/mime/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/connect/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/http.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/body-parser/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/connect/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/http.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/express/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/body-parser/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/serve-static/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/shared/build/log-level.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/shared/build/log-message.d.ts": [
+        "/users/eloi/documents/syncify/shared/build/log-level.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/shared/build/index.d.ts": [
+        "/users/eloi/documents/syncify/shared/build/log-level.d.ts",
+        "/users/eloi/documents/syncify/shared/build/log-message.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/server/src/logger/logger.ts": [
+        "/users/eloi/documents/syncify/shared/build/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/server/src/logger/index.ts": [
+        "/users/eloi/documents/syncify/server/src/logger/logger.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/server/src/app/app.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/dotenv/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/express/index.d.ts",
+        "/users/eloi/documents/syncify/shared/build/index.d.ts",
+        "/users/eloi/documents/syncify/server/src/logger/index.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/server/src/app/index.ts": [
+        "/users/eloi/documents/syncify/server/src/app/app.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/server/src/index.ts": [
+        "/users/eloi/documents/syncify/server/src/app/index.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/server/src/app/app.spec.ts": [
+        "/users/eloi/documents/syncify/server/src/app/app.ts",
+        "/users/eloi/documents/syncify/shared/build/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/jest-diff/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/jest-diff/build/types.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/jest-diff/build/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/jest-diff/build/types.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/server/node_modules/@types/jest/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/jest-diff/build/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/jest-diff/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/babel__generator/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/babel__traverse/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/babel__template/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/babel__core/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/babel__generator/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/babel__traverse/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/babel__template/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/istanbul-reports/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-report/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/normalize-package-data/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/users/eloi/documents/syncify/node_modules/@types/prop-types/index.d.ts": [
         "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
@@ -1145,98 +1234,6 @@
         "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
         "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/eloi/documents/syncify/shared/build/log-level.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/shared/build/log-message.d.ts": [
-        "/users/eloi/documents/syncify/shared/build/log-level.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/shared/build/index.d.ts": [
-        "/users/eloi/documents/syncify/shared/build/log-level.d.ts",
-        "/users/eloi/documents/syncify/shared/build/log-message.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/server/src/logger/logger.ts": [
-        "/users/eloi/documents/syncify/shared/build/index.d.ts"
-      ],
-      "/users/eloi/documents/syncify/server/src/logger/index.ts": [
-        "/users/eloi/documents/syncify/server/src/logger/logger.ts"
-      ],
-      "/users/eloi/documents/syncify/server/src/app/index.ts": [
-        "/users/eloi/documents/syncify/server/src/app/app.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/jest-diff/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/jest-diff/build/types.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/jest-diff/build/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/jest-diff/build/types.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/server/node_modules/@types/jest/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/jest-diff/build/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/jest-diff/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/babel__generator/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/babel__traverse/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/babel__template/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/babel__core/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/babel__generator/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/babel__traverse/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/babel__template/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-report/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/eloi/documents/syncify/node_modules/@types/istanbul-reports/index.d.ts": [
-        "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-report/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
-        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/users/eloi/documents/syncify/node_modules/@types/node/globals.d.ts": [
         "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
         "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
@@ -1503,6 +1500,149 @@
         "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/globals.d.ts",
         "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts"
       ],
+      "/users/eloi/documents/syncify/node_modules/@types/dotenv/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/range-parser/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/express-serve-static-core/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/http.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/events.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/range-parser/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/mime/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/serve-static/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/mime/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/connect/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/http.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/body-parser/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/connect/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/http.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/express/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/body-parser/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/serve-static/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/shared/build/log-level.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/shared/build/log-message.d.ts": [
+        "/users/eloi/documents/syncify/shared/build/log-level.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/shared/build/index.d.ts": [
+        "/users/eloi/documents/syncify/shared/build/log-level.d.ts",
+        "/users/eloi/documents/syncify/shared/build/log-message.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/server/src/logger/logger.ts": [
+        "/users/eloi/documents/syncify/shared/build/index.d.ts"
+      ],
+      "/users/eloi/documents/syncify/server/src/logger/index.ts": [
+        "/users/eloi/documents/syncify/server/src/logger/logger.ts"
+      ],
+      "/users/eloi/documents/syncify/server/src/app/index.ts": [
+        "/users/eloi/documents/syncify/server/src/app/app.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/jest-diff/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/jest-diff/build/types.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/jest-diff/build/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/jest-diff/build/types.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/server/node_modules/@types/jest/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/jest-diff/build/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/jest-diff/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/babel__generator/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/babel__traverse/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/babel__template/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/babel__core/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/babel__generator/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/babel__traverse/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/babel__template/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/istanbul-reports/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-report/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/eloi/documents/syncify/node_modules/@types/normalize-package-data/index.d.ts": [
+        "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
+        "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/eloi/documents/syncify/node_modules/@types/prop-types/index.d.ts": [
         "/users/eloi/documents/syncify/node_modules/@types/node/util.d.ts",
         "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts"
@@ -1594,28 +1734,6 @@
       "/users/eloi/documents/syncify/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
       "/users/eloi/documents/syncify/node_modules/typescript/lib/lib.esnext.intl.d.ts",
       "/users/eloi/documents/syncify/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
-      "/users/eloi/documents/syncify/shared/build/log-level.d.ts",
-      "/users/eloi/documents/syncify/shared/build/log-message.d.ts",
-      "/users/eloi/documents/syncify/shared/build/index.d.ts",
-      "/users/eloi/documents/syncify/server/src/logger/logger.ts",
-      "/users/eloi/documents/syncify/server/src/logger/index.ts",
-      "/users/eloi/documents/syncify/server/src/app/app.ts",
-      "/users/eloi/documents/syncify/server/src/app/index.ts",
-      "/users/eloi/documents/syncify/server/src/index.ts",
-      "/users/eloi/documents/syncify/server/src/app/app.spec.ts",
-      "/users/eloi/documents/syncify/node_modules/@types/jest-diff/index.d.ts",
-      "/users/eloi/documents/syncify/node_modules/jest-diff/build/types.d.ts",
-      "/users/eloi/documents/syncify/node_modules/jest-diff/build/index.d.ts",
-      "/users/eloi/documents/syncify/server/node_modules/@types/jest/index.d.ts",
-      "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
-      "/users/eloi/documents/syncify/node_modules/@types/babel__generator/index.d.ts",
-      "/users/eloi/documents/syncify/node_modules/@types/babel__traverse/index.d.ts",
-      "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts",
-      "/users/eloi/documents/syncify/node_modules/@types/babel__template/index.d.ts",
-      "/users/eloi/documents/syncify/node_modules/@types/babel__core/index.d.ts",
-      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts",
-      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-report/index.d.ts",
-      "/users/eloi/documents/syncify/node_modules/@types/istanbul-reports/index.d.ts",
       "/users/eloi/documents/syncify/node_modules/@types/node/globals.d.ts",
       "/users/eloi/documents/syncify/node_modules/@types/node/assert.d.ts",
       "/users/eloi/documents/syncify/node_modules/@types/node/async_hooks.d.ts",
@@ -1660,6 +1778,36 @@
       "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/util.d.ts",
       "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/globals.d.ts",
       "/users/eloi/documents/syncify/node_modules/@types/node/ts3.2/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/dotenv/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/range-parser/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/express-serve-static-core/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/mime/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/serve-static/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/connect/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/body-parser/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/express/index.d.ts",
+      "/users/eloi/documents/syncify/shared/build/log-level.d.ts",
+      "/users/eloi/documents/syncify/shared/build/log-message.d.ts",
+      "/users/eloi/documents/syncify/shared/build/index.d.ts",
+      "/users/eloi/documents/syncify/server/src/logger/logger.ts",
+      "/users/eloi/documents/syncify/server/src/logger/index.ts",
+      "/users/eloi/documents/syncify/server/src/app/index.ts",
+      "/users/eloi/documents/syncify/server/src/index.ts",
+      "/users/eloi/documents/syncify/server/src/app/app.spec.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/jest-diff/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/jest-diff/build/types.d.ts",
+      "/users/eloi/documents/syncify/node_modules/jest-diff/build/index.d.ts",
+      "/users/eloi/documents/syncify/server/node_modules/@types/jest/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@babel/types/lib/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/babel__generator/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/babel__traverse/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@babel/parser/typings/babel-parser.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/babel__template/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/babel__core/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-coverage/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/istanbul-lib-report/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/istanbul-reports/index.d.ts",
+      "/users/eloi/documents/syncify/node_modules/@types/normalize-package-data/index.d.ts",
       "/users/eloi/documents/syncify/node_modules/@types/prop-types/index.d.ts",
       "/users/eloi/documents/syncify/node_modules/@types/q/index.d.ts",
       "/users/eloi/documents/syncify/node_modules/@types/react/global.d.ts",
@@ -1671,7 +1819,8 @@
       "/users/eloi/documents/syncify/node_modules/vfile-message/types/index.d.ts",
       "/users/eloi/documents/syncify/node_modules/@types/vfile/index.d.ts",
       "/users/eloi/documents/syncify/node_modules/@types/vfile-message/index.d.ts",
-      "/users/eloi/documents/syncify/node_modules/@types/yargs/index.d.ts"
+      "/users/eloi/documents/syncify/node_modules/@types/yargs/index.d.ts",
+      "/users/eloi/documents/syncify/server/src/app/app.ts"
     ]
   },
   "version": "3.4.5"

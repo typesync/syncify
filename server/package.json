@@ -2,6 +2,10 @@
   "name": "server",
   "version": "0.1.0",
   "dependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/express": "^4.16.1",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.0",
     "shared": "0.1.0"
   },
   "devDependencies": {

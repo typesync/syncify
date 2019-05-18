@@ -1,3 +1,3 @@
-import { run } from './app';
+import { bootstrap } from './app';
 
-run();
+bootstrap();
