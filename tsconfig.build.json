@@ -5,7 +5,7 @@
       "path": "shared"
     },
     {
-      "path": "server"
+      "path": "server/tsconfig.build.json"
     }
   ]
 }

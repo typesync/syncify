@@ -1,0 +1,8 @@
+*.svg
+*.ico
+node_modules
+.gitignore
+.prettierignore
+*.log
+*.lock
+.env*
