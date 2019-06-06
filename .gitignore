@@ -11,6 +11,8 @@ build
 /dist
 
 # misc
+movies
+
 .DS_Store
 .env
 tsconfig.tsbuildinfo

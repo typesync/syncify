@@ -1,33 +1,21 @@
-import React, { useEffect } from 'react';
-import io from 'socket.io-client';
-import logo from './logo.svg';
-import './App.css';
-import { LogLevels } from 'shared';
+import React from 'react';
+import { BrowserRouter as Router, Link, Route } from 'react-router-dom';
+import Home from './Home';
 
-const App: React.FC = () => {
-  useEffect(() => {
-    io(`http://localhost:${process.env.REACT_APP_SERVER_PORT}`);
-  }, []);
+const App: React.FC = () => (
+  <Router>
+    <>
+      <nav>
+        <h2>navigation</h2>
+        <ul>
+          <li>
+            <Link to="/">Home</Link>
+          </li>
+        </ul>
+      </nav>
 
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <p data-testid="log-level">{LogLevels.Debug}</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-};
-
+      <Route path="/" exact component={Home} />
+    </>
+  </Router>
+);
 export default App;
