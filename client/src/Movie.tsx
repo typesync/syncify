@@ -1,10 +1,22 @@
-import React from 'react';
+import React, { useRef, useEffect } from 'react';
 
 const Movie: React.FC<{
   src: string;
-}> = ({ src }) => {
+  onPlay: () => any;
+}> = ({ src, onPlay }) => {
+  const videoRef = useRef<HTMLVideoElement>(null);
+
+  useEffect(() => {
+    console.log('effect ran');
+    if (videoRef.current) {
+      console.log('videoRef.current was defined');
+      videoRef.current.addEventListener('play', onPlay);
+    }
+  }, [onPlay, videoRef]);
+
   return (
     <video
+      ref={videoRef}
       controls
       style={{
         width: '100%',

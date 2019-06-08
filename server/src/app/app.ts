@@ -3,10 +3,11 @@ import * as crypto from 'crypto';
 import * as express from 'express';
 import * as globCb from 'glob';
 import * as http from 'http';
-import { LogLevels } from 'shared';
+import { LogLevels, Room } from 'shared';
 import { promisify } from 'util';
 import { log } from '../logger';
 import * as bodyParser from 'body-parser';
+import * as socketServer from 'socket.io';
 
 const glob = promisify(globCb);
 
@@ -48,14 +49,33 @@ export function bootstrap() {
     }
   });
 
-  const rooms = new Map<string, {}>();
+  const rooms = new Map<string, Room>();
+
   app.post('/room', async (req, res) => {
     const roomId = crypto.randomBytes(16).toString('hex');
-    rooms.set(roomId, req.body);
+    rooms.set(roomId, req.body.room);
     log({
       level: LogLevels.Debug,
       message: `room ${roomId} created: ${JSON.stringify(rooms.get(roomId))}}`,
     });
     res.send({ roomId });
+  });
+
+  const io = socketServer(server);
+  io.on('connection', socket => {
+    log({ level: LogLevels.Debug, message: 'a user connected' });
+    socket.on('Get Room', (roomId: string, callback: (room: Room) => void) => {
+      log({ level: LogLevels.Debug, message: `Get Room: ${roomId}` });
+      const room = rooms.get(roomId);
+      if (room) {
+        callback(room);
+      }
+    });
+    socket.on('Play', () => {
+      socket.broadcast.emit('Play');
+    });
+    socket.on('disconnect', () => {
+      log({ level: LogLevels.Debug, message: `a user disconnected` });
+    });
   });
 }
