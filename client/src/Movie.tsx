@@ -2,17 +2,27 @@ import React, { useRef, useEffect } from 'react';
 
 const Movie: React.FC<{
   src: string;
+  isPlaying: boolean;
   onPlay: () => any;
-}> = ({ src, onPlay }) => {
+}> = ({ src, onPlay, isPlaying }) => {
   const videoRef = useRef<HTMLVideoElement>(null);
 
   useEffect(() => {
-    console.log('effect ran');
     if (videoRef.current) {
-      console.log('videoRef.current was defined');
-      videoRef.current.addEventListener('play', onPlay);
+      videoRef.current.addEventListener('play', event => {
+        console.log('on play');
+        event.preventDefault();
+        onPlay();
+      });
     }
   }, [onPlay, videoRef]);
+
+  useEffect(() => {
+    if (videoRef.current && isPlaying) {
+      console.log('play');
+      videoRef.current.play();
+    }
+  }, [isPlaying]);
 
   return (
     <video

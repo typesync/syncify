@@ -72,7 +72,7 @@ export function bootstrap() {
       }
     });
     socket.on('Play', () => {
-      socket.broadcast.emit('Play');
+      io.emit('Play');
     });
     socket.on('disconnect', () => {
       log({ level: LogLevels.Debug, message: `a user disconnected` });

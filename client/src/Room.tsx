@@ -9,8 +9,9 @@ const Room: React.FC<RouteComponentProps<{ roomId: string }>> = ({
     params: { roomId },
   },
 }) => {
-  const [playlist, setPlaylist] = useState([] as string[]);
   const [socket, setSocket] = useState<SocketIOClient.Socket>();
+  const [playlist, setPlaylist] = useState([] as string[]);
+  const [isPlaying, setIsPlaying] = useState(false);
 
   useEffect(() => {
     if (!socket) {
@@ -23,7 +24,7 @@ const Room: React.FC<RouteComponentProps<{ roomId: string }>> = ({
         setPlaylist(room.playlist);
       });
       socket.on('Play', () => {
-        console.log('play');
+        setIsPlaying(true);
       });
     }
   }, [socket, roomId]);
@@ -42,7 +43,12 @@ const Room: React.FC<RouteComponentProps<{ roomId: string }>> = ({
           <div key={movie}>
             <h3>playlist item</h3>
             {/* <li key={movie}>{movie}</li> */}
-            <Movie key={movie} src={movie} onPlay={emitPlay} />
+            <Movie
+              key={movie}
+              src={movie}
+              onPlay={emitPlay}
+              isPlaying={isPlaying}
+            />
           </div>
         ))}
       </ul>
