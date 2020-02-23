@@ -1,43 +1,29 @@
-import React, { useRef, useEffect } from 'react';
+import React, { useRef } from 'react';
+import ReactPlayer from 'react-player';
 
 const Movie: React.FC<{
   src: string;
-  isPlaying: boolean;
+  playing: boolean;
+  onPause: () => any;
   onPlay: () => any;
-}> = ({ src, onPlay, isPlaying }) => {
-  const videoRef = useRef<HTMLVideoElement>(null);
-
-  useEffect(() => {
-    if (videoRef.current) {
-      videoRef.current.addEventListener('play', event => {
-        console.log('on play');
-        event.preventDefault();
-        onPlay();
-      });
-    }
-  }, [onPlay, videoRef]);
-
-  useEffect(() => {
-    if (videoRef.current && isPlaying) {
-      console.log('play');
-      videoRef.current.play();
-    }
-  }, [isPlaying]);
+}> = ({ src, onPlay, onPause, playing }) => {
+  const videoRef = useRef<ReactPlayer>(null);
 
   return (
-    <video
-      ref={videoRef}
-      controls
-      style={{
-        width: '100%',
-        height: 'auto',
-      }}
-    >
-      <source
-        src={`${process.env.REACT_APP_API_URL}/movies/${src}`}
-        type="video/mp4"
+    <>
+      <ReactPlayer
+        ref={videoRef}
+        style={{
+          width: '100%',
+          height: 'auto',
+        }}
+        url={`${process.env.REACT_APP_API_URL}/movies/${src}`}
+        playing={playing}
+        playsinline={true}
       />
-    </video>
+      <button onClick={onPlay}>Play</button>
+      <button onClick={onPause}>Pause</button>
+    </>
   );
 };
 
